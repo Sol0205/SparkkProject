@@ -1,0 +1,30 @@
+body {
+  background-color: #07220f
+}
+
+.encabezadoSparkkTexto, .encabezadoIdiomaEspañol, .encabezadoIdiomaIngles {
+  color: white;
+}
+
+/* .encabezadoMenu {
+
+} */
+
+.body {
+  color: white;
+  font-size: 750%;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.bodyIdeas {
+  font-size: 750%;
+  color: #4adb26;
+  font-family: lobster;
+  font-style: italic;
+}
+
+.body, .bodyIdeas {
+  text-align: start;
+  left: 30%;
+}
